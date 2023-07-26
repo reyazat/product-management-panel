@@ -1,0 +1,23 @@
+@import url('../assets/vendor_components/bootstrap/dist/css/bootstrap.css');
+@import url('../assets/vendor_components/datatable/datatables.min.css');
+@import url('../assets/vendor_components/sweetalert/sweetalert.css');
+@import url('../assets/vendor_components/bootstrap-markdown-master/css/bootstrap-markdown.css');
+@import url('../assets/vendor_components/select2/dist/css/select2.min.css');
+@import url('../assets/vendor_components/bootstrap-select/dist/css/bootstrap-select.css');
+@import url('../assets/vendor_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.css');
+@import url('../assets/vendor_components/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.css');
+@import url('../assets/vendor_components/jquery-toast-plugin-master/src/jquery.toast.css');
+@import url('../assets/vendor_plugins/iCheck/flat/blue.css');
+@import url('../assets/vendor_plugins/iCheck/all.css');
+
+@import url('color_theme.css');
+@import url('style_rtl.css');
+@import url('../assets/icons/font-awesome/css/font-awesome.css');
+@import url('../assets/icons/Ionicons/css/ionicons.css');
+@import url('../assets/icons/themify-icons/themify-icons.css');
+@import url('../assets/icons/iconsmind/style.css');
+@import url('../assets/icons/icomoon/style.css');
+@import url('../assets/vendor_components/animate/animate.css');
+@import url('style.css');
+@import url('skin_color.css');
+@import url('panel/purgecss.css');

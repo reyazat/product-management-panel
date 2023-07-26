@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-mix": "^6.0.19",
+        "laravel-mix-purgecss": "^6.0.0",
+        "purgecss": "^5.0.0"
+    },
+    "dependencies": {
+        "laravel-mix-compress": "^1.0.0",
+        "persian-datepicker": "^1.2.0"
+    }
+}
