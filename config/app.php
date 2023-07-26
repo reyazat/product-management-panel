@@ -18,7 +18,7 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
-    'NAME_SENDER' => 'Management Panel',
+    'NAME_SENDER' => 'Product Management Panel',
 
     /*
     |--------------------------------------------------------------------------

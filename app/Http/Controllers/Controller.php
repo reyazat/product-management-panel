@@ -9,8 +9,8 @@ use Illuminate\Routing\Controller as BaseController;
 /**
  * @OA\Info(
  *      version="1.0.0",
- *      title="Management Panel",
- *      description="Management Panel",
+ *      title="Product Management Panel",
+ *      description="Product Management Panel",
  *      @OA\Contact(
  *          email="info@khaneh-mobile.ir"
  *      ),

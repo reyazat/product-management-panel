@@ -1,6 +1,6 @@
-# Management Panel
+# Product Management Panel
 
-A powerful management panel built with Laravel 10 and utilizing the [WebkitX Admin Bootstrap](https://themeforest.net/item/webkitx-admin-bootstrap-admin-dashboard-template-user-interface/27691720) template. The panel allows users to manage customers, products, files, and photos efficiently. It's secured using Laravel Passport for authentication and provides a user-friendly interface in the Persian language.
+A powerful Product Management Panel built with Laravel 10 and utilizing the [WebkitX Admin Bootstrap](https://themeforest.net/item/webkitx-admin-bootstrap-admin-dashboard-template-user-interface/27691720) template. The panel allows users to manage customers, products, files, and photos efficiently. It's secured using Laravel Passport for authentication and provides a user-friendly interface in the Persian language.
 
 ## Features
 
@@ -15,7 +15,7 @@ A powerful management panel built with Laravel 10 and utilizing the [WebkitX Adm
 
 ## Requirements
 
-Before setting up the Management Panel, make sure you have the following requirements:
+Before setting up the Product Management Panel, make sure you have the following requirements:
 
 - PHP version X.X (Check Laravel 10 requirements).
 - MySQL or any other supported database system.
@@ -23,7 +23,7 @@ Before setting up the Management Panel, make sure you have the following require
 
 ## Installation
 
-To install the Management Panel, follow these steps:
+To install the Product Management Panel, follow these steps:
 
 1. Clone the repository:
 

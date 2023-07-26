@@ -4,10 +4,10 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'Management Panel',
+                'title' => 'Product Management Panel',
             ],
             'info' => [
-                'title' => 'Management Panel',
+                'title' => 'Product Management Panel',
                 'description' => '',
                 'version' => '1.0.0',
                 'contact' => [
