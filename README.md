@@ -65,18 +65,13 @@ DB_PASSWORD=your_password
 ```
 php artisan migrate --seed
 ```
-
-## Configuration
-
-If there are any additional configurations required to customize the Management Panel for your specific needs, provide details here.
-
 ## Usage
 
 After successful installation, access the admin panel via the provided URL. Use the credentials created during the seeding process to log in and start managing customers, products, files, and photos.
 
-### Language Selection
+## Demo
 
-The admin panel is displayed in Persian (Farsi) by default. If you wish to change the language or add more languages, provide instructions here.
+[WebkitX Admin Bootstrap](https://themeforest.net/item/webkitx-admin-bootstrap-admin-dashboard-template-user-interface/27691720)
 
 ## Laravel Documentation
 
